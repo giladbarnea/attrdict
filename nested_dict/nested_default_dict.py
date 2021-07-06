@@ -26,7 +26,7 @@ class NestedDefaultDict(defaultdict):
 
 
 
-document = {
+"""document = {
     "products":   {
         "EndpointSecure": {
             # "provisioned": True,
@@ -45,4 +45,4 @@ bad_account["bad"]["worse"] = {'hello':'world'}
 print(bad_account["bad"]["worse"]['hello'])
 print(bad_account["bad"]["worse"]['hello']) # fails
 
-print('\n', bad_account)
+print('\n', bad_account)"""

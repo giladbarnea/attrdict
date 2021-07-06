@@ -1,4 +1,4 @@
-from collections import defaultdict
+"""from collections import defaultdict
 
 # Good:
 #  - no KeyErrors
@@ -43,3 +43,4 @@ if bad_account["bad"]["worse"]:
 
 # recursive_dict["products"]["EndpointSecure"] = {"hello": "world"}
 # print(recursive_dict["products"]["EndpointSecure"]["hello"])  # -> world
+"""
